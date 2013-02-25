@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1361549075 source:c:\documents and settings\bladerunner\desktop\project_salcedo_sumague\src\project.cpp
+	"../include/project.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<string>
+	<ctime>
+	<vector>
+	<math.h>
+	<cstdlib>
+
+1361521963 c:\documents and settings\bladerunner\desktop\project_salcedo_sumague\include\project.h
+
+1361543772 source:c:\documents and settings\bladerunner\desktop\project_salcedo_sumague\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"include/project.h"
+
+1361549075 source:c:\documents and settings\bladerunner\my documents\github\project_salcedo_sumague\project_salcedo_sumague\src\project.cpp
+	"../include/project.h"
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<string>
+	<ctime>
+	<vector>
+	<math.h>
+	<cstdlib>
+
+1361521963 c:\documents and settings\bladerunner\my documents\github\project_salcedo_sumague\project_salcedo_sumague\include\project.h
+
+1361543772 source:c:\documents and settings\bladerunner\my documents\github\project_salcedo_sumague\project_salcedo_sumague\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"include/project.h"
+
